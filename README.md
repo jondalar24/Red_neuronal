@@ -51,13 +51,9 @@ Este ejercicio es ideal para quien está empezando con redes neuronales y quiere
 
 ---
 
-**Autor**: [Tu nombre o usuario de GitHub]
+**Autor**: Angel Calvar (jondalar24)
 
 **Curso**: IBM AI Engineering - Coursera
 
-**Tema**: Entrenamiento de redes neuronales (Módulo 2 - Forward y Backpropagation)
-
----
-
-Si te ha resultado útil, no dudes en darle una estrella al repositorio o contactarme para más ejemplos.
+**Tema**: Entrenamiento de redes neuronales
 
